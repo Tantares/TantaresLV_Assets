@@ -1,5 +1,5 @@
 # Exported from Wings 3D 1.5.4
-newmtl LLV_V_Decoupler_1_auv
+newmtl Castor_Decoupler_1_N_auv
 Ns 100.0
 d 1.0
 illum 2
@@ -7,5 +7,5 @@ Kd 1.0 1.0 1.0
 Ka 1.0 1.0 1.0
 Ks 1.0 1.0 1.0
 Ke 0.0 0.0 0.0
-map_Kd Texture_LLV_Decoupler_2.png
+map_Kd Texture_Castor_Decoupler_1.png
 

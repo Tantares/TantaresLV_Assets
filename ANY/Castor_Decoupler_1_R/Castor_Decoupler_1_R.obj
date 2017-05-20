@@ -1,6 +1,6 @@
 # Exported from Wings 3D 1.5.4
-mtllib LLV_V_Decoupler_1.mtl
-o LLV_V_Decoupler_1
+mtllib Castor_Decoupler_1_R.mtl
+o Castor_Decoupler_1_R
 #288 vertices, 288 faces
 v 1.25000000 6.2500000e-2 8.3844968e-18
 v 1.20740728 6.2500000e-2 0.32352381
@@ -1944,8 +1944,8 @@ vn -0.86602540 0.0000000e+0 -0.50000000
 vn -0.86602540 0.0000000e+0 -0.50000000
 vn 0.0000000e+0 1.00000000 0.0000000e+0
 vn 0.0000000e+0 1.00000000 0.0000000e+0
-g LLV_V_Decoupler_1_LLV_V_Decoupler_1_auv
-usemtl LLV_V_Decoupler_1_auv
+g Castor_Decoupler_1_R_Castor_Decoupler_1_R_auv
+usemtl Castor_Decoupler_1_R_auv
 s 1
 f 1/366/3 170/342/677 169/165/673 2/137/7
 f 4/364/15 191/339/761 190/176/758 5/135/20
