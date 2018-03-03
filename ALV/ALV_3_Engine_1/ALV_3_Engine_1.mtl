@@ -17,7 +17,7 @@ Kd 1.0 1.0 1.0
 Ka 1.0 1.0 1.0
 Ks 0.001 0.001 0.001
 Ke 0.0 0.0 0.0
-map_Kd Texture_ALV_General_1.png
+map_Kd Texture_ALV_General_3.png
 
 newmtl default
 Ns 0.0
